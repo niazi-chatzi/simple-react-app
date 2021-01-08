@@ -1,3 +1,5 @@
+--A Simple React App for Counting a shopping cart items, incrementing and deleting
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
